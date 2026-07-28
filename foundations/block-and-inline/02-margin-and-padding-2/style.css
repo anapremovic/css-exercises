@@ -18,9 +18,17 @@ body {
   padding: 10px;
 }
 
+.title {
+  border-top: 20px solid white;
+}
+
 .content {
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.button-container {
+  border-bottom: 8px solid white;
 }
 
 button {
