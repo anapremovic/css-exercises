@@ -31,6 +31,12 @@ body {
   border-bottom: 8px solid white;
 }
 
+.button-container-text {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
+
 button {
   background: white;
   display: block;
